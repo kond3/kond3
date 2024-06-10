@@ -1,6 +1,5 @@
-<h1>
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHU0aXJiOWFhdDY3c2RxZ2VodGh5bWZtM2NsdWE1dWlhbjl2eDZnOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif"  width="30px"/>
-  kond3 ⚽
+<h1 align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2J6dDhtbnVjdXd2djNteW56MWM3d2F6eWQwbzFtNmo2cTdubHhvNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/SHjOSDkKZ18qOHA5B5/giphy.gif"  width="300px"/>
 </h1> 
 
 
