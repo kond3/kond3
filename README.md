@@ -3,7 +3,7 @@
   <br>
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2J6dDhtbnVjdXd2djNteW56MWM3d2F6eWQwbzFtNmo2cTdubHhvNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/SHjOSDkKZ18qOHA5B5/giphy.gif"  width="300px"/>
 </h1>
-<h3 align="center">A passionate developer from Italy</h3>
+<h3 align="center">SOC Analyst and developer from Italy</h3>
 <br>
 
 - 🔭 I’m currently working on **BASH scripting for Sumologic SIEM API**
