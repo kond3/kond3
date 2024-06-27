@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **C and C++**
 
-- 💬 Ask me about **Hack The Box**
+- 💬 Ask me about **BASH**
 
 - 📫 How to reach me **kond3@protonmail.com**
 
