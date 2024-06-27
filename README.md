@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **BASH**
 
-- 📫 How to reach me **kond3@protonmail.com**
+- 📫 How to reach me: **kond3@protonmail.com**
 
 <br>
 <h3 align="left">Connect with me:</h3>
