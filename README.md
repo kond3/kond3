@@ -6,7 +6,7 @@
 <h3 align="center">SOC Analyst and developer from Italy</h3>
 <br>
 
-- 🔭 I’m currently working on **BASH scripting for Sumologic SIEM API**
+- 🔭 I’m currently working on **BASH scripting for ~~Sumologic SIEM API~~ PortSwigger Academy Labs**
 
 - 🌱 I’m currently learning **C and C++**
 
